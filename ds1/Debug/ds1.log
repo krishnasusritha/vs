@@ -1,0 +1,4 @@
+﻿  queuell.cpp
+c:\users\esdm0\documents\visual studio 2015\projects\ds\ds1\queuell.cpp(21): error C4700: uninitialized local variable 'temp' used
+c:\users\esdm0\documents\visual studio 2015\projects\ds\ds1\queuell.cpp(40): warning C4715: 'queue::dequeue': not all control paths return a value
+c:\users\esdm0\documents\visual studio 2015\projects\ds\ds1\queuell.cpp(32): error C4700: uninitialized local variable 'cur' used
