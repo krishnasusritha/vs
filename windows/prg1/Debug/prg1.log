@@ -1,0 +1,4 @@
+﻿  prg1.cpp
+c:\users\esdm0\documents\visual studio 2015\projects\windows\prg1\prg1.cpp(12): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  prg1.vcxproj -> C:\Users\esdm0\documents\visual studio 2015\Projects\windows\Debug\prg1.exe
+  prg1.vcxproj -> C:\Users\esdm0\documents\visual studio 2015\Projects\windows\Debug\prg1.pdb (Full PDB)
